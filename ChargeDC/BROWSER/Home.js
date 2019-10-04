@@ -16,7 +16,7 @@ ChargeDC.Home = CLASS({
 				top : 0,
 				width : '100%',
 				minHeight : '100%',
-				backgroundImage : '/ChargeDC/R/background.png'
+				backgroundImage : '/ChargeDC/R/background.jpg'
 			},
 			
 			contentStyle : {

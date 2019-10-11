@@ -120,7 +120,7 @@ ChargeDC.Home = CLASS({
 				c : MSG('UNISWAP_BUTTON'),
 				on : {
 					tap : () => {
-						open('https://uniswap.exchange');
+						open('https://uniswap.exchange/swap/0x92c5387aCE61F5c505BF2c2D4c84120F0A813d4B');
 					}
 				}
 			})]
